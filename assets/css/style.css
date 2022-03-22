@@ -10,3 +10,32 @@ p {
 .logo {
     width: 24px;
 }
+
+.icon {
+    width: 117px;
+}
+
+.experiences {
+    color: #66D9EE;
+}
+
+.skills {
+    color: #FE9720;
+}
+
+.education {
+    color: #FA2772;
+}
+
+.interests {
+    color: #3CB043;
+}
+
+.contact {
+    color: #9358FE;
+    height: 300px;
+}
+
+.text-dark {
+    color: #333333 !important; 
+}
