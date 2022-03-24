@@ -1,41 +1,47 @@
 p {
-    margin: 0.25rem 0 0.25rem 0;
-    /*text-align: justify;*/
+  margin: 0.25rem 0 0.25rem 0;
+  /*text-align: justify;*/
 }
 
 .entry {
-    margin: 1rem 0 1rem 0;
+  margin: 1rem 0 1rem 0;
 }
 
 .logo {
-    width: 24px;
+  width: 24px;
 }
 
 .icon {
-    width: 117px;
+  width: 117px;
 }
 
 .experiences {
-    color: #66D9EE;
+  color: #66d9ee;
 }
 
 .skills {
-    color: #FE9720;
+  color: #fe9720;
 }
 
 .education {
-    color: #FA2772;
+  color: #fa2772;
 }
 
 .interests {
-    color: #3CB043;
+  color: #3cb043;
 }
 
 .contact {
-    color: #9358FE;
-    height: 300px;
+  color: #9358fe;
+  height: 300px;
 }
 
 .text-dark {
-    color: #333333 !important; 
+  color: #333333 !important;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    display: block;
+  }
 }
