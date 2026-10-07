@@ -71,6 +71,10 @@ p {
   grid-row: 1;
 }
 
+.avatar {
+  border-radius: 50%;
+}
+
 @media screen and (max-width: 768px) {
   .container {
     display: block;
